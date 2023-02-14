@@ -1,3 +1,6 @@
+/**
+ * Alejandro Guijarro Delgado S2A
+ */
 input.onButtonPressed(Button.A, function () {
     número_introducido += 10
 })
